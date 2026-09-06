@@ -1,7 +1,1 @@
-# Crice-Codenection-
-
-Deliverable:
-Idea documentation: https://docs.google.com/document/d/1yvPYlt2U0OCuvtWNXgGuH7lWHF6ImhvXvMnOYkinuhI/edit?usp=sharing
-Prototype: 
-Slides: 
-Youtube Video: 
+https://docs.google.com/document/d/1ol6VPsI7Doe6MclipYdUBl_fI54xLtTVgXymGEjNZQM/edit?usp=sharing
